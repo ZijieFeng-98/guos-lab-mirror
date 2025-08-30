@@ -1,0 +1,14 @@
+GSE222520 Data Description
+========================
+
+GEO Accession: GSE222520
+Title: Single-cell RNA-seq analysis of glioma immune microenvironment
+Data Type: Processed scRNA-seq
+Expression Matrix: 0 x 21
+Phenotype Variables: 44
+Feature Annotations: 0
+Supplementary Files: 21
+Download Date: 2025-08-21 11:33:35
+
+Notes:
+Processed data includes batch-corrected expression matrices, cell metadata, and cluster annotations

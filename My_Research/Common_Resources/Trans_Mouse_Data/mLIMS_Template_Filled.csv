@@ -1,0 +1,22 @@
+Animal Name,Life Status,Sex,Dam,Sire,Date of Birth,Body Color,Ear Tag,Protocol,Cage Name,Cage Status,Building,Room,Rack,Side,Row,Column,Owner,Genotypes
+Cx3-M1,Alive,Male,,,,Black,,,Cx3-B1,Breeding,BRT,67E,,South,4,N,Zijie Feng,"Cx3cr1-CreERT2:+, Atg5:f/f, FAD:+/-"
+Cx3-M2,Alive,Male,,,,Black,,,Cx3-B2,Breeding,BRT,67E,,,4,M,Zijie Feng,"Cx3cr1-CreERT2:+, Atg5:f/f, FAD:+/-"
+Tm-M1,Alive,Male,,,,Black,,,Tm-B1,Breeding,BRT,67E,,,4,L,Zijie Feng,Tmem119: +/-
+Cx3-1801,Alive,Male,Cx3-M1,B6,,Black,1801,,Cx3-H1,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1802,Alive,Male,Cx3-M2,B7,,Black,1802,,Cx3-H1,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1803,Alive,Female,Cx3-M3,B8,,Black,1803,,Cx3-H2,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1804,Alive,Female,Cx3-M4,B9,,Black,1804,,Cx3-H2,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1805,Alive,Female,Cx3-M5,B10,,Black,1805,,Cx3-H2,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1806,Alive,Female,Cx3-M6,B11,,Black,1806,,Cx3-H3,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1807,Alive,Female,Cx3-M7,B12,,Black,1807,,Cx3-H3,Hold,BRT,67E,,,,,Zijie Feng,
+Cx3-1808,Alive,Female,Cx3-M8,B13,,Black,1808,,Cx3-H3,Hold,BRT,67E,,,,,Zijie Feng,
+,Alive,Male,Tm-M1,,,Black,,,Tm-H1,Hold,BRT,67E,,,,,,
+,Alive,Male,Tm-M2,,,Black,,,Tm-H1,Hold,BRT,67E,,,,,,
+,Alive,Male,Tm-M3,,,Black,,,Tm-H1,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M4,,,Black,,,Tm-H2,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M5,,,Black,,,Tm-H2,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M6,,,Black,,,Tm-H2,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M7,,,Black,,,Tm-H3,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M8,,,Black,,,Tm-H3,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M9,,,Black,,,Tm-H3,Hold,BRT,67E,,,,,,
+,Alive,Female,Tm-M10,,,Black,,,Tm-H3,Hold,BRT,67E,,,,,,

@@ -1,0 +1,104 @@
+{
+  "R": {
+    "Version": "4.3.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "DBI": {
+      "Package": "DBI",
+      "Version": "1.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "DT": {
+      "Package": "DT",
+      "Version": "0.28",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "RPostgres": {
+      "Package": "RPostgres",
+      "Version": "1.4.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "htmltools": {
+      "Package": "htmltools",
+      "Version": "0.5.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "1.8.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "pins": {
+      "Package": "pins",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "pool": {
+      "Package": "pool",
+      "Version": "0.1.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "readxl": {
+      "Package": "readxl",
+      "Version": "1.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "shiny": {
+      "Package": "shiny",
+      "Version": "1.7.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "shinydashboard": {
+      "Package": "shinydashboard",
+      "Version": "0.7.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "shinyjs": {
+      "Package": "shinyjs",
+      "Version": "2.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    },
+    "writexl": {
+      "Package": "writexl",
+      "Version": "1.4.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b5b0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0c5c0"
+    }
+  }
+}

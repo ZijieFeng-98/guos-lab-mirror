@@ -1,0 +1,102 @@
+Animal Name,Life Status,Sex,Dam,Sire,Date of Birth,Body Color,Ear Tag,Protocol,Cage Name,Cage Status,Building,Room,Rack,Side,Row,Column,Owner,Genotypes
+F183,Live,Female,,,9/13/24,,F183,Acat1-2024,Breeding-01,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F171,Live,Female,,,8/25/24,,F171,Acat1-2024,Breeding-01,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F073,Live,Male,,,6/19/24,,F073,Acat1-2024,Breeding-02 (8/19 setup),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 f/+, PTEN f/+, Oligo-Cre +/-, Luc +/-"
+F256,Live,Female,,,10/1/24,,F256,Acat1-2024,Breeding-02 (8/19 setup),Active,Biochemistry,2200,,,,,Zijie Feng,"TP53 f/+, PTEN f/f, Luc +/-"
+F071,Live,Female,,,6/19/24,,F071,Acat1-2024,Breeding-02 (8/19 setup),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 +/+, PTEN f/+, Oligo-Cre -/-, Luc +/-"
+F378,Live,Male,,,11/2/24,,F378,Acat1-2024,Breeding-04  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F405,Live,Female,,,11/18/24,,F405,Acat1-2024,Breeding-04  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F415,Live,Female,,,11/17/24,,F415,Acat1-2024,Breeding-04  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F440,Live,Male,,,11/30/24,,F440,Acat1-2024,Breeding-05  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F443,Live,Female,,,11/30/24,,F443,Acat1-2024,Breeding-05  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F419,Live,Female,,,11/17/24,,F419,Acat1-2024,Breeding-05  (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F376,Live,Male,,,11/2/24,,F376,Acat1-2024,Breeding-06 (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F439,Live,Female,,,11/30/24,,F439,Acat1-2024,Breeding-06 (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F451,Live,Female,,,12/1/24,,F451,Acat1-2024,Breeding-06 (3/7),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F084,Live,Male,,,7/10/24,,F084,Acat1-2024,Breeding-07 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Lyz-Cre +/+"
+F473,Live,Female,,,12/9/24,,F473,Acat1-2024,Breeding-07 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F454,Live,Female,,,12/1/24,,F454,Acat1-2024,Breeding-07 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F400,Live,Male,,,11/12/24,,F400,Acat1-2024,Breeding-08 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F470,Live,Female,,,12/9/24,,F470,Acat1-2024,Breeding-08 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F471,Live,Female,,,12/9/24,,F471,Acat1-2024,Breeding-08 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F156,Live,Male,,,9/1/24,,F156,Acat1-2024,Breeding-09 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F469,Live,Female,,,12/9/24,,F469,Acat1-2024,Breeding-09 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F492,Live,Female,,,12/11/24,,F492,Acat1-2024,Breeding-09 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F170,Live,Male,,,8/25/24,,F170,Acat1-2024,Breeding-10 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Lyz-Cre +/-"
+F455,Live,Female,,,12/1/24,,F455,Acat1-2024,Breeding-10 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F446,Live,Female,,,12/1/24,,F446,Acat1-2024,Breeding-10 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F201,Live,Male,,,9/10/24,,F201,Acat1-2024,Breeding-11 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Lyz-Cre +/-"
+F219,Live,Female,,,9/14/24,,F219,Acat1-2024,Breeding-11 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Lyz-Cre +/+"
+F107,Live,Female,,,7/29/24,,F107,Acat1-2024,Breeding-11 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Lyz-Cre +/+"
+F088,Live,Male,,,7/10/24,,F088,Acat1-2024,Breeding-12 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F485,Live,Female,,,12/11/24,,F485,Acat1-2024,Breeding-12 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F493,Live,Female,,,12/12/24,,F493,Acat1-2024,Breeding-12 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F456,Live,Male,,,12/1/24,,F456,Acat1-2024,Breeding-13 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F483,Live,Female,,,12/11/24,,F483,Acat1-2024,Breeding-13 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F489,Live,Female,,,12/11/24,,F489,Acat1-2024,Breeding-13 (3/9),Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F525,Live,Female,,,1/12/25,,F525,Acat1-2024,50,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F535,Live,Female,,,1/14/25,,F535,Acat1-2024,50,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Pten f/+"
+F540,Live,Female,,,1/14/25,,F540,Acat1-2024,50,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Pten f/+"
+F541,Live,Female,,,1/14/25,,F541,Acat1-2024,50,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, p53 f/+, Pten f/+"
+F543,Live,Female,,,1/14/25,,F543,Acat1-2024,50,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F537,Live,Female,,,1/14/25,,F537,Acat1-2024,51,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, p53 f/+, Pten f/+"
+F544,Live,Female,,,1/15/25,,F544,Acat1-2024,51,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F550,Live,Female,,,1/15/25,,F550,Acat1-2024,51,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F545,Live,Male,,,1/15/25,,F545,Acat1-2024,52,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F552,Live,Male,,,1/15/25,,F552,Acat1-2024,52,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, Oligo Cre +/-"
+F560,Live,Male,,,1/15/25,,F560,Acat1-2024,52,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F561,Live,Female,,,1/15/25,,F561,Acat1-2024,53,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F562,Live,Female,,,1/15/25,,F562,Acat1-2024,53,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F563,Live,Female,,,1/15/25,,F563,Acat1-2024,53,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F564,Live,Female,,,1/15/25,,F564,Acat1-2024,53,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F542,Live,Female,,,1/14/25,,F542,Acat1-2024,53,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, p53 f/+"
+F624,Live,Female,,,3/15/25,,F624,Acat1-2024,54,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Tp53 f/+, Pten f/+, Oligo Cre+/-"
+F630,Live,Female,,,4/4/25,,F630,Acat1-2024,54,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 +/+, Pten +/+, Oligo Cre+/-"
+F632,Live,Female,,,4/4/25,,F632,Acat1-2024,54,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 f/+, Pten f/+, Oligo Cre+/-"
+F635,Live,Female,,,3/29/25,,F635,Acat1-2024,54,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 +/+, Pten f/f, Oligo Cre+/-"
+F637,Live,Female,,,3/29/25,,F637,Acat1-2024,54,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, TP53 f/+, Pten f/+"
+F629,Live,Male,,,4/4/25,,F629,Acat1-2024,55,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 +/+, Pten f/+, Oligo Cre+/-"
+F634,Live,Male,,,3/29/25,,F634,Acat1-2024,55,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, TP53 +/+, Pten f/f"
+F636,Live,Male,,,3/29/25,,F636,Acat1-2024,55,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, TP53 f/+, Pten f/+, Oligo Cre+/-"
+F638,Live,Female,,,4/4/25,,F638,Acat1-2024,56,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F639,Live,Female,,,4/4/25,,F639,Acat1-2024,56,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F640,Live,Female,,,4/4/25,,F640,Acat1-2024,56,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F641,Live,Female,,,4/4/25,,F641,Acat1-2024,56,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F642,Live,Female,,,4/4/25,,F642,Acat1-2024,56,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F644,Live,Female,,,4/13/25,,F644,Acat1-2024,57,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Ptenf/+, OligoCre+/-"
+F645,Live,Female,,,4/13/25,,F645,Acat1-2024,57,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Tp53 +/-, Ptenf/+"
+F647,Live,Female,,,4/13/25,,F647,Acat1-2024,57,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Tp53 +/-"
+F660,Live,Female,,,4/14/25,,F660,Acat1-2024,57,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F652,Live,Male,,,4/13/25,,F652,Acat1-2024,58,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F657,Live,Male,,,4/13/25,,F657,Acat1-2024,58,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F643,Live,Male,,,4/13/25,,F643,Acat1-2024,58,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/+, Ptenf/+, OligoCre+/-"
+F654,Live,Male,,,4/13/25,,F654,Acat1-2024,58,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F651,Live,Female,,,4/13/25,,F651,Acat1-2024,59,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F653,Live,Female,,,4/13/25,,F653,Acat1-2024,59,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F655,Live,Female,,,4/13/25,,F655,Acat1-2024,59,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F658,Live,Female,,,4/13/25,,F658,Acat1-2024,59,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F648,Live,Female,,,4/13/25,,F648,Acat1-2024,60,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F649,Live,Female,,,4/13/25,,F649,Acat1-2024,60,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F650,Live,Female,,,4/13/25,,F650,Acat1-2024,60,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F656,Live,Female,,,4/13/25,,F656,Acat1-2024,60,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F661,Live,Female,,,4/20/25,,F661,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F662,Live,Female,,,4/20/25,,F662,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F663,Live,Female,,,4/20/25,,F663,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F664,Live,Male,,,4/20/25,,F664,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F665,Live,Male,,,4/20/25,,F665,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F666,Live,Female,,,4/20/25,,F666,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F667,Live,Male,,,4/20/25,,F667,Acat1-2024,Breeding-04,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F668,Live,Male,,,4/20/25,,F668,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F669,Live,Male,,,4/20/25,,F669,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F670,Live,Female,,,4/20/25,,F670,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,Soat1 f/f
+F671,Live,Female,,,4/20/25,,F671,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F672,Live,Female,,,4/20/25,,F672,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F673,Live,Female,,,4/20/25,,F673,Acat1-2024,Breeding-06,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F674,Live,Male,,,4/18/25,,F674,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F675,Live,Female,,,4/18/25,,F675,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F676,Live,Female,,,4/18/25,,F676,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F677,Live,Female,,,4/18/25,,F677,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F678,Live,Female,,,4/18/25,,F678,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F679,Live,Male,,,4/25/25,,F679,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"
+F680,Live,Male,,,4/25/25,,F680,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/+"
+F681,Live,Female,,,4/25/25,,F681,Acat1-2024,Breeding-07,Active,Biochemistry,2200,,,,,Zijie Feng,"Soat1 f/f, LyzCre +/-"

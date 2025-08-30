@@ -1,0 +1,54 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Shiny specific files
+rsconnect/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Package files
+*.tar.gz
+*.zip
+
+# Data files (keep sample data)
+# *.csv
+# *.xlsx
+# *.xls
+
+# Environment files
+.env
+.Rprofile
+.Renviron
+
+# Backup files
+*.bak
+*.backup
+
+# Cache files
+.cache/
+*.cache
+
+# Test files
+testthat.Rcheck/

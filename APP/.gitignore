@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.RData
+.Ruserdata
+*.Rproj
+.Renviron
+
+# Shiny logs (if any)
+*.log
+
+# renv (if you use it later)
+renv/library/
+renv/staging/
+.Rprofile
+
+# Temp
+*.tmp

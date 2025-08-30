@@ -1,0 +1,56 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# RStudio files
+.Rproj.user/
+*.Rproj.user
+
+# Deployment files
+rsconnect/
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables (keep secrets safe)
+.env
+.Renviron
+
+# Backup files
+*.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Package files
+*.Rcheck/
+*.tgz
+*.tar.gz
+
+# Data files (uncomment if you don't want to track data)
+# *.csv
+# *.xlsx
+# *.rds
+# *.RData

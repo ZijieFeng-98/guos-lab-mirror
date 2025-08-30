@@ -1,0 +1,3 @@
+[submodule "qPCR_Cleaner_Analyzer"]
+	path = qPCR_Cleaner_Analyzer
+	url = git@github.com:ZijieFeng-98/qPCR_Cleaner_Analyzer.git

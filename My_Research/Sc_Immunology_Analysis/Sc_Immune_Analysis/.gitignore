@@ -1,0 +1,23 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Data files (large files)
+data/raw/*.tar.gz
+data/raw/extracted/
+data/processed/*.rds
+data/processed/*.csv
+
+# Results and figures (can be regenerated)
+results/
+figures/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS specific
+.DS_Store
+Thumbs.db
