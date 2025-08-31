@@ -8,7 +8,14 @@
 *.gz
 *.bz2
 *.7z
+*.pdf
 
 # Large processed data
 *_combined_expression_matrix*
 *_test.csv
+
+# Large data directories
+GDCdata/
+archives/
+data/raw/
+data/processed/
