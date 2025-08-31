@@ -19,3 +19,8 @@ GDCdata/
 archives/
 data/raw/
 data/processed/
+
+# Large data files that exceed GitHub limits
+*.vcf.gz
+*.vcf.gz.tbi
+*_data.rds
