@@ -1,2 +1,14 @@
 .DS_Store
 .Rproj.user/
+
+# Large data files (excluded from mirror)
+*.rds
+*.tar.gz
+*.zip
+*.gz
+*.bz2
+*.7z
+
+# Large processed data
+*_combined_expression_matrix*
+*_test.csv
