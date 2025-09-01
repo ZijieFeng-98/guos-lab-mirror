@@ -1,26 +1,2 @@
 .DS_Store
 .Rproj.user/
-
-# Large data files (excluded from mirror)
-*.rds
-*.tar.gz
-*.zip
-*.gz
-*.bz2
-*.7z
-*.pdf
-
-# Large processed data
-*_combined_expression_matrix*
-*_test.csv
-
-# Large data directories
-GDCdata/
-archives/
-data/raw/
-data/processed/
-
-# Large data files that exceed GitHub limits
-*.vcf.gz
-*.vcf.gz.tbi
-*_data.rds
